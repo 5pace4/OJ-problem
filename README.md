@@ -1,2 +1,2 @@
-# Codeforces-Solution
-/*****Here, you will find only CF's solution*****/
+# ProblemSolution
+/*****Here, you will find only online judge problems solution*****/
